@@ -1,6 +1,8 @@
 
 ## Professional Cloud DevOps Engineer
 
+[GCP Live](https://partners.cloudwerx.tech/gcp-ace)
+
 ```
 - A Professional Cloud DevOps Engineer is responsible for efficient development operations that can
         - balance service reliability and delivery speed. 
